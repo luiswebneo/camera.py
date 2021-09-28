@@ -1,2 +1,2 @@
 # camera.py
-Projeto em python para camera do notebook
+Projeto em python para olhar atráves da camera do notebook
